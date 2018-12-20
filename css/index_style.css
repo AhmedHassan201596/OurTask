@@ -204,6 +204,52 @@ body{
 /*--------------------------------------------------------------my skills (ahmed hassan)----------------------------------------------------*/
 
 
+/*--------------------------------------------------------------Hire Me (Abdelrahman Attia)------------------------------------------------*/
 
+.social li
+{
+    list-style: none;
+}
+
+#hire-me p  , #hire-me i
+{
+    color: gray;
+}
+
+ #hire-me i{
+    font-size: 15px;
+}
+
+#hire-me p a
+{
+    color: #c62d32;
+}
+#hire-me p a:hover
+{
+    text-decoration: none;
+    color: #c62d32;
+}
+
+#hire-me h4 ,#hire-me h2
+{
+    color: black;
+}
+#hire-me h4
+{
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+
+#hire-me h2
+{
+    font-size: 2.5em;
+    font-weight: 700;
+    margin-bottom: 15px;
+    line-height: 1.1;
+}
+/*------------------------------------------------------------(Abdelrahman Attia)----------------------------------------------------------------*/
 
 
