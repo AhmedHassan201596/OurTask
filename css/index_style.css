@@ -257,3 +257,74 @@ section .social_icons a {
 
 
 
+.asll{
+    
+        background-color: #f5f5f5;
+
+}
+.asll h2{
+    
+    font-size: 2.5em;
+    font-weight: 700;
+    text-transform: capitalize;
+        margin-bottom: 15px;
+    color: #444444;
+
+}
+.asll p{
+    font-weight: 300;
+        font-size: 16px;
+    color: #777777;
+    margin-bottom: 15px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+
+}
+.contant{
+    
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 3px;
+    border: 1px solid #eeeeee;
+        box-shadow: 0px 1px 4px rgba(107, 69, 69, 0.050);
+}
+.contant:hover{
+color:#ec3237; 
+}
+.contant h4{
+    font-weight: 600;
+    text-transform: uppercase;
+    
+}
+.contant h4:hover{color:  #ec3237;
+
+} 
+
+.service_icon{
+width: 40px;
+    height: 40px;
+    margin-bottom: 15px;
+    background-color: #eeeeee;
+    color: #777777;
+    text-align: center;
+padding-top: 10px
+}
+.service_icon:hover{
+    background-color: #ec3237;
+    color: #fff;
+}
+
+.service_icon i {
+    font-size: 1.4em;
+}
+.lo{
+    text-align: center;
+}
+.bt{
+background-color: #ec3237;
+    border-radius: 0px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    font-size: 17px;
+}
